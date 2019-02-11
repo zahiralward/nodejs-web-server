@@ -31,6 +31,6 @@ app.get("/bad", (req, res) => {
   });
 });
 
-server.listen(port, () => {
-  console.log("App is running on port " + port);
+app.listen(port, () => {
+  console.log(`The server has started on port ${port}`);
 });
