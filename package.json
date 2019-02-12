@@ -11,5 +11,17 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahiralward/nodejs-web-server.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "bugs": {
+    "url": "https://github.com/zahiralward/nodejs-web-server/issues"
+  },
+  "homepage": "https://github.com/zahiralward/nodejs-web-server#readme"
 }
